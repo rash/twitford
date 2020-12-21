@@ -9,7 +9,7 @@ An example of the content required in the file can be found below.
 
 ```json
 {
-    "token": "Your Twitter bearer token"
+    "token": "Your Twitter Bearer token"
 }
 ```
 
