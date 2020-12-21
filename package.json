@@ -1,7 +1,7 @@
 {
   "name": "twitford",
   "version": "1.0.0",
-  "description": "A tool to check if a Twitter account is a bot using Benford's Law",
+  "description": "A tool to check if a Twitter account is a bot using Benford's law",
   "main": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
