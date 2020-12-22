@@ -37,7 +37,7 @@ In order to launch Twiford, you must run the command `node index.js [username]`,
 
 If everything works correctly, you should get an output that says `The Pearson correlation of [username] is [value].`, where `[username]` is the username of the account provided, and `[value]` is the [Pearson correlation](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient) of the data gathered by Twitford.
 
-The lower the absolute value of the result is, the higher the chance the account is a bot.
+The lower the value of the result is, the higher the chance the account is a bot.
 
 ## Licensing
 
